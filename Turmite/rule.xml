@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rules [
+        <!ELEMENT rules (rule)*>
+        <!ELEMENT rule (first|second|third|fourth)*>
+        <!ATTLIST rule
+                name CDATA #REQUIRED>
+        <!ELEMENT first (#PCDATA)>
+        <!ELEMENT second (#PCDATA)>
+        <!ELEMENT third (#PCDATA)>
+        <!ELEMENT fourth (#PCDATA)>
+        ]>
+<rules>
+    <rule name="SYMMETRICAL">
+        <first>0-0-N-1-0</first>
+        <second>0-1-N-1-1</second>
+        <third>1-0-N-0-0</third>
+        <fourth>1-1-R-0-1</fourth>
+    </rule>
+    <rule name="RANDOM">
+        <first>0-0-R-1-0</first>
+        <second>0-1-R-1-1</second>
+        <third>1-0-N-0-0</third>
+        <fourth>1-1-N-0-1</fourth>
+    </rule>
+</rules>

@@ -1,0 +1,22 @@
+C
+Nike.polo 10000 2 100 L
+A
+Nike.bag 20000 2 80
+C
+Adidas.polo 10000 1 100 M
+C
+Nike.polo 10000 1 100 S
+S
+Jordan 40000 3 100 45
+S
+Air.Max 50000 3 100 43
+A
+Puma.cap 5000 3 50
+A
+Nike.cap 7000 2 100
+S
+Air.force 50000 1 100 42
+C
+Adidas.jumper 15000 2 100 XS
+C
+Adidas.jumper 15000 2 100 XXL

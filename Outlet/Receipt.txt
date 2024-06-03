@@ -1,0 +1,22 @@
+
+
+****  CHECKOUT  ****
+
+0. termék: 
+-Név: T-shirt
+-Ár: 10
+-Leárazás: 10%
+- Méret: L
+
+1. termék: 
+-Név: T-shirt
+-Ár: 10
+-Leárazás: 10%
+- Méret: L
+
+
+Összesen: 18 Ft
+
+
+****  CHECKOUT  ****
+
